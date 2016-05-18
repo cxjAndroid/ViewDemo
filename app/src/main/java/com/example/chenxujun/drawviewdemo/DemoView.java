@@ -53,6 +53,7 @@ public class DemoView extends View {
         radius = 250;
         cx = 250;
         cy = 250;
+        cy = 250;
         right = 250;
         bottom = 250;
         this.context = context;
